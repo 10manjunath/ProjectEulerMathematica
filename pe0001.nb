@@ -10,18 +10,22 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      2754,         91]
-NotebookOptionsPosition[      2320,         70]
-NotebookOutlinePosition[      2679,         86]
-CellTagsIndexPosition[      2636,         83]
+NotebookDataLength[      2871,         95]
+NotebookOptionsPosition[      2436,         74]
+NotebookOutlinePosition[      2795,         90]
+CellTagsIndexPosition[      2752,         87]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["Project Euler - Problem 1", "Title",
- CellChangeTimes->{{3.693444958151105*^9, 3.693444991836101*^9}}],
+Cell[TextData[{
+ "Project Euler - Problem 1\n",
+ StyleBox["Multiples of 3 and 5", "Chapter"]
+}], "Title",
+ CellChangeTimes->{{3.693444958151105*^9, 3.693444991836101*^9}, {
+  3.6934521501276827`*^9, 3.6934521713245163`*^9}}],
 
 Cell[BoxData[
  RowBox[{"(*", 
@@ -86,11 +90,11 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 108, 1, 92, "Title"],
-Cell[691, 25, 932, 18, 138, "Input"],
+Cell[580, 22, 224, 5, 136, "Title"],
+Cell[807, 29, 932, 18, 138, "Input"],
 Cell[CellGroupData[{
-Cell[1648, 47, 512, 15, 32, "Input"],
-Cell[2163, 64, 129, 2, 32, "Output"]
+Cell[1764, 51, 512, 15, 32, "Input"],
+Cell[2279, 68, 129, 2, 32, "Output"]
 }, Open  ]]
 }, Open  ]]
 }
