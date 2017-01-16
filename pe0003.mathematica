@@ -1,4 +1,4 @@
-Project Euler Problem 2
+Project Euler Problem 3
 Largest prime factor
 
 (*
