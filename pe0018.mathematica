@@ -1,4 +1,4 @@
-Project Euler Problem 17
+Project Euler Problem 18
 Maximum path sum I
 
 (*
